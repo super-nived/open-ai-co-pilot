@@ -1,0 +1,188 @@
+body {
+  background-color: rgba(0, 0, 0, 0.445);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: 'Poppins', sans-serif;
+}
+
+.chatbox-wrapper {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 90vh;
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #f9f9f9;
+}
+.header {
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+  display: flex;
+  justify-content: flex-end;
+  padding: 2px;
+  background-color: #ee1717a2;
+  border-radius: 50%;
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
+}
+
+.stop-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  color: #ffffff;
+}
+
+.stop-btn .material-symbols-rounded {
+  font-size: 24px;
+}
+
+.message-box {
+  flex: 1;
+  padding: 10px;
+  overflow-y: auto;
+}
+
+.chat {
+  margin: 20px 0;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.chat.response img {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+  border-radius: 50%;
+}
+
+.chat.user .message-text {
+  background: #007bff;
+  color: white;
+}
+
+.chat.bot .message-text,
+.chat.response .message-text {
+  background: #e9ecef;
+  color: #333;
+}
+
+.message-text {
+  padding: 10px;
+  border-radius: 5px;
+  max-width: 80%;
+  word-wrap: break-word;
+}
+
+.bar-wrapper {
+  display: flex;
+  padding: 10px;
+  border-top: 1px solid #ddd;
+  background: #fff;
+}
+
+.bar-wrapper input[type="text"] {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.bar-wrapper button {
+  background: none;
+  border: none;
+  color: #007bff;
+  font-size: 24px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.bar-wrapper button:disabled {
+  color: #ccc;
+  cursor: not-allowed;
+}
+
+.upload-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+  cursor: pointer;
+  color: #007bff;
+}
+
+/* Loading indicator styles */
+.bubble-wave {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+}
+
+.bubble-wave .bubble {
+  width: 10px;
+  height: 10px;
+  margin: 0 5px;
+  background-color: #007bff;
+  border-radius: 50%;
+  animation: bubble-wave 1.5s infinite;
+}
+
+.bubble-wave .bubble:nth-child(1) {
+  animation-delay: 0s;
+}
+
+.bubble-wave .bubble:nth-child(2) {
+  animation-delay: 0.3s;
+}
+
+.bubble-wave .bubble:nth-child(3) {
+  animation-delay: 0.6s;
+}
+
+@keyframes bubble-wave {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+/* Styles for media elements */
+.chat img {
+  max-width: 200px;
+  aspect-ratio: 1/1;
+  border-radius: 10px;
+  margin-top: 20px;
+  
+}
+
+.chat video {
+  max-width: 200px;
+  aspect-ratio: 1/1;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.chat a {
+  margin-top: 10px;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.chat a:hover {
+  text-decoration: underline;
+}
+
+.pdf-link::before {
+  content: "📄 ";
+}
