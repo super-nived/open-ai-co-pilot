@@ -14,7 +14,7 @@ function sendMessage() {
     const formData = new FormData();
     formData.append('query', userInput);
     toggleLoading(true); // Show loading indicator
-    fetch('http://127.0.0.1:5000/query_data', {
+    fetch('https://open-ai-co-pilot.onrender.com/query_data/query_data', {
         method: 'POST',
         body: formData,
     })
@@ -46,7 +46,7 @@ function uploadFile() {
     const formData = new FormData();
     formData.append('file', file);
     toggleLoading(true);
-    fetch('http://127.0.0.1:5000/post_data', {
+    fetch('https://open-ai-co-pilot.onrender.com/query_data/post_data', {
         method: 'POST',
         body: formData,
     })
@@ -173,7 +173,7 @@ function toggleLoading(show) {
 }
 
 function endChat() {
-    fetch('http://127.0.0.1:5000/end_chat', {
+    fetch('https://open-ai-co-pilot.onrender.com/query_data/end_chat', {
         method: 'POST'
     })
     .then(response => {
