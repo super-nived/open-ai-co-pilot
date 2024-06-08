@@ -1,5 +1,3 @@
-
-
 from openai import OpenAI
 client = OpenAI(api_key="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")
 

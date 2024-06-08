@@ -26,7 +26,7 @@
     "embeddedDataSpecifications": [],
     "idShort": "Nameplate",
     "identification": {
-      "id": "urn:industryapps:i40:submodel:product:1:1:Nameplate#GNJU8.PLANTCUCUM.FOOD-DEMO25_001",
+      "id": "urn:industryapps:i40:submodel:product:1:1:Nameplate#GNJU8.PLANTCUCUM.ELE-DEMO2504_01",
       "idType": "IRDI"
     },
     "kind": "Instance",
@@ -39,7 +39,7 @@
           "idType": "IRI",
           "local": false,
           "type": "AssetAdministrationShell",
-          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
         }
       ]
     },
@@ -84,13 +84,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:Nameplate#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:Nameplate#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -104,7 +104,7 @@
             }
           ]
         },
-        "value": "Nourish Naturals",
+        "value": "Volt Electronics Solutions",
         "valueId": null,
         "valueType": "string"
       },
@@ -138,13 +138,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:Nameplate#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:Nameplate#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -194,13 +194,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:Nameplate#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:Nameplate#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -249,7 +249,7 @@
                 }
               ]
             },
-            "value": "Nourish Naturals",
+            "value": "bactobac Precision",
             "valueId": null,
             "valueType": "string"
           },
@@ -591,7 +591,7 @@
                 }
               ]
             },
-            "value": "4-10 Amsterdam St L 2, Richmond, Victoria 3121, Australia",
+            "value": "ASML Veldhoven\nDe Run 6501\n5504 DR, Veldhoven\nThe Netherlands\n+31 40 268 3000",
             "valueId": null,
             "valueType": "string"
           }
@@ -627,13 +627,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:Nameplate#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:Nameplate#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -681,13 +681,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:Nameplate#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:Nameplate#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -701,7 +701,7 @@
             }
           ]
         },
-        "value": "ECO12345",
+        "value": "ASML2445",
         "valueId": null,
         "valueType": "string"
       },
@@ -735,13 +735,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:Nameplate#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:Nameplate#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -755,7 +755,7 @@
             }
           ]
         },
-        "value": "10-04-2024",
+        "value": "10-10-2023",
         "valueId": null,
         "valueType": "string"
       },
@@ -781,13 +781,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:Nameplate#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:Nameplate#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -801,7 +801,7 @@
             }
           ]
         },
-        "value": "https://cdn-multimedia.uat.industryapps.net/multimedia/Logos/batterypass/OrganicOnly.png",
+        "value": "https://thumbs.dreamstime.com/b/digital-electronics-logo-design-creative-electronic-circuits-vector-technology-concept-95972772.jpg",
         "valueId": null,
         "valueType": "string"
       }
@@ -834,7 +834,7 @@
     "embeddedDataSpecifications": [],
     "idShort": "TechnicalData",
     "identification": {
-      "id": "urn:industryapps:i40:submodel:product:1:1:TechnicalData#GNJU8.PLANTCUCUM.FOOD-DEMO25_001",
+      "id": "urn:industryapps:i40:submodel:product:1:1:TechnicalData#GNJU8.PLANTCUCUM.ELE-DEMO2504_01",
       "idType": "IRDI"
     },
     "kind": "Instance",
@@ -847,7 +847,7 @@
           "idType": "IRI",
           "local": false,
           "type": "AssetAdministrationShell",
-          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
         }
       ]
     },
@@ -894,13 +894,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:TechnicalData#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:TechnicalData#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -949,7 +949,7 @@
                 }
               ]
             },
-            "value": "Nourish Naturals",
+            "value": "ASML Holdings",
             "valueId": null,
             "valueType": "string"
           },
@@ -988,7 +988,7 @@
                 }
               ]
             },
-            "value": "https://cdn-multimedia.uat.industryapps.net/multimedia/Logos/batterypass/OrganicOnly.png"
+            "value": "https://thumbs.dreamstime.com/b/digital-electronics-logo-design-creative-electronic-circuits-vector-technology-concept-95972772.jpg"
           },
           {
             "category": "VARIABLE",
@@ -1024,7 +1024,7 @@
                 }
               ]
             },
-            "value": "",
+            "value": "56op70",
             "valueId": null,
             "valueType": "string"
           },
@@ -1130,7 +1130,7 @@
                 }
               ]
             },
-            "value": "https://images.ctfassets.net/quhz534suzyl/IkRAkXZhGxV2s2VbAAw01/32e18710b9be6cd48dca9ba5656fa21f/916_60_16.jpg",
+            "value": "https://content.hwigroup.net/images/editorial/600/101075_asml-wins-semi-americas-award-for-euv.jpg",
             "valueId": null,
             "valueType": "string"
           },
@@ -1189,7 +1189,7 @@
                     }
                   ]
                 },
-                "value": "https://cdn-multimedia.uat.industryapps.net/multimedia/glb/batterypass/burger.glb",
+                "value": "https://cdn-multimedia.uat.industryapps.net/multimedia/glb/batterypass/electronic_panel.glb",
                 "valueId": null,
                 "valueType": "string"
               },
@@ -1219,7 +1219,7 @@
                     }
                   ]
                 },
-                "value": "https://cdn-multimedia.uat.industryapps.net/multimedia/glb/batterypass/burger.glb",
+                "value": "https://cdn-multimedia.uat.industryapps.net/multimedia/glb/batterypass/pzu_rev2.glb",
                 "valueId": null,
                 "valueType": "string"
               },
@@ -1249,7 +1249,7 @@
                     }
                   ]
                 },
-                "value": "https://cdn-multimedia.uat.industryapps.net/multimedia/glb/batterypass/burger.glb",
+                "value": "https://cdn-multimedia.uat.industryapps.net/multimedia/glb/batterypass/electronic_panel.glb",
                 "valueId": null,
                 "valueType": "string"
               },
@@ -1279,7 +1279,7 @@
                     }
                   ]
                 },
-                "value": "https://cdn-multimedia.uat.industryapps.net/multimedia/glb/batterypass/burger.glb",
+                "value": "https://cdn-multimedia.uat.industryapps.net/multimedia/glb/batterypass/pzu_rev2.glb",
                 "valueId": null,
                 "valueType": "string"
               }
@@ -1340,7 +1340,7 @@
                     }
                   ]
                 },
-                "value": "https://grilld.com.au/gamechanger",
+                "value": "https://www.annualreports.com/HostedData/AnnualReportArchive/a/NASDAQ_ASML_2020.pdf",
                 "valueId": null,
                 "valueType": "string"
               },
@@ -1370,7 +1370,7 @@
                     }
                   ]
                 },
-                "value": "https://grilld.com.au/gamechanger/how-to-feed-a-cow-seaweed",
+                "value": "https://ddd.uab.cat/pub/infanu/239332/iaASMLa2021ieng.pdf",
                 "valueId": null,
                 "valueType": "string"
               },
@@ -1400,7 +1400,7 @@
                     }
                   ]
                 },
-                "value": "https://www.seaforest.com.au/",
+                "value": "https://www.asml.com/-/media/asml/files/investors/financial-results/a-results/2022/2022-annual-report-based-on-us-gaap-jder53.pdf?rev=073f28c1f10641319464651efdad8b3f",
                 "valueId": null,
                 "valueType": "string"
               },
@@ -1430,7 +1430,7 @@
                     }
                   ]
                 },
-                "value": "https://grilld.com.au/gamechanger",
+                "value": "https://www.annualreports.com/HostedData/AnnualReportArchive/a/NASDAQ_ASML_2020.pdf",
                 "valueId": null,
                 "valueType": "string"
               }
@@ -1491,7 +1491,7 @@
                     }
                   ]
                 },
-                "value": "https://youtu.be/mbEQtgXN1Hk",
+                "value": "https://www.youtube.com/watch?v=xk5KL_MS-tE",
                 "valueId": null,
                 "valueType": "string"
               },
@@ -1521,7 +1521,7 @@
                     }
                   ]
                 },
-                "value": "https://youtu.be/NQOv4Zldc8g?si=3p34vLj--hZ7h7Xn",
+                "value": "https://youtu.be/iSVHp6CAyQ8?si=UZ-CL7pglTclEdUQ",
                 "valueId": null,
                 "valueType": "string"
               },
@@ -1551,7 +1551,7 @@
                     }
                   ]
                 },
-                "value": "https://youtu.be/pA-gWihxNos",
+                "value": "https://www.youtube.com/watch?v=wI6nCmG-PpI",
                 "valueId": null,
                 "valueType": "string"
               },
@@ -1581,7 +1581,7 @@
                     }
                   ]
                 },
-                "value": "https://www.youtube.com/watch?v=kW5K3CABfJQ",
+                "value": "https://www.youtube.com/watch?v=Df3tajBAxdw",
                 "valueId": null,
                 "valueType": "string"
               }
@@ -1642,7 +1642,7 @@
                     }
                   ]
                 },
-                "value": "",
+                "value": "https://stellarix.com/wp-content/uploads/2023/05/Pic-2-1.png",
                 "valueId": null,
                 "valueType": "string"
               },
@@ -1672,7 +1672,7 @@
                     }
                   ]
                 },
-                "value": "",
+                "value": "https://images.anandtech.com/doci/13143/asml_nxt2000_678x452.jpg",
                 "valueId": null,
                 "valueType": "string"
               },
@@ -1732,7 +1732,7 @@
                     }
                   ]
                 },
-                "value": "",
+                "value": "https://vaporapparel.com/cdn/shop/files/WOMENS_ae7dca4e-ecd3-44b3-80ab-cd747c3d7584.jpg",
                 "valueId": null,
                 "valueType": "string"
               }
@@ -1772,13 +1772,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:TechnicalData#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:TechnicalData#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -1941,13 +1941,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:TechnicalData#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:TechnicalData#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -2017,7 +2017,7 @@
                     }
                   ]
                 },
-                "value": "400 gms",
+                "value": "800 gms",
                 "valueId": null,
                 "valueType": "string"
               },
@@ -2047,7 +2047,7 @@
                     }
                   ]
                 },
-                "value": "",
+                "value": "10 cm",
                 "valueId": null,
                 "valueType": "string"
               },
@@ -2077,7 +2077,7 @@
                     }
                   ]
                 },
-                "value": null,
+                "value": "15 cm",
                 "valueId": null,
                 "valueType": "string"
               }
@@ -2208,13 +2208,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:TechnicalData#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:TechnicalData#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -2255,7 +2255,7 @@
                 }
               ]
             },
-            "value": "12-04-2024",
+            "value": "2 years",
             "valueId": null,
             "valueType": "string"
           }
@@ -2290,7 +2290,7 @@
     "embeddedDataSpecifications": [],
     "idShort": "Identification",
     "identification": {
-      "id": "urn:industryapps:i40:submodel:product:1:1:Identification#GNJU8.PLANTCUCUM.FOOD-DEMO25_001",
+      "id": "urn:industryapps:i40:submodel:product:1:1:Identification#GNJU8.PLANTCUCUM.ELE-DEMO2504_01",
       "idType": "IRDI"
     },
     "kind": "Instance",
@@ -2303,7 +2303,7 @@
           "idType": "IRI",
           "local": false,
           "type": "AssetAdministrationShell",
-          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
         }
       ]
     },
@@ -2340,13 +2340,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:Identification#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:Identification#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -2360,7 +2360,7 @@
             }
           ]
         },
-        "value": "ECO12345",
+        "value": "ASML2445",
         "valueId": null,
         "valueType": "string"
       },
@@ -2386,13 +2386,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:Identification#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:Identification#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -2406,7 +2406,7 @@
             }
           ]
         },
-        "value": "ECOBURG",
+        "value": "TWINSCAN NXE:3600D",
         "valueId": null,
         "valueType": "string"
       },
@@ -2432,13 +2432,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:Identification#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:Identification#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -2452,7 +2452,7 @@
             }
           ]
         },
-        "value": "",
+        "value": "56op70",
         "valueId": null,
         "valueType": "string"
       },
@@ -2478,13 +2478,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:Identification#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:Identification#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -2498,7 +2498,7 @@
             }
           ]
         },
-        "value": "Available",
+        "value": null,
         "valueId": null,
         "valueType": "string"
       }
@@ -2531,7 +2531,7 @@
     "embeddedDataSpecifications": [],
     "idShort": "BasicData",
     "identification": {
-      "id": "urn:industryapps:i40:submodel:product:1:1:BasicData#GNJU8.PLANTCUCUM.FOOD-DEMO25_001",
+      "id": "urn:industryapps:i40:submodel:product:1:1:BasicData#GNJU8.PLANTCUCUM.ELE-DEMO2504_01",
       "idType": "IRDI"
     },
     "kind": "Instance",
@@ -2544,7 +2544,7 @@
           "idType": "IRI",
           "local": false,
           "type": "AssetAdministrationShell",
-          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
         }
       ]
     },
@@ -2581,13 +2581,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:BasicData#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:BasicData#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -2601,7 +2601,7 @@
             }
           ]
         },
-        "value": "300 gms",
+        "value": "500 gms",
         "valueId": null,
         "valueType": "string"
       },
@@ -2627,13 +2627,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:BasicData#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:BasicData#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -2673,13 +2673,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:BasicData#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:BasicData#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -2711,331 +2711,6 @@
     "description": [
       {
         "language": "EN",
-        "text": "Information about the brand"
-      }
-    ],
-    "editable": "true",
-    "embeddedDataSpecifications": [],
-    "idShort": "BrandInformation",
-    "identification": {
-      "id": "urn:industryapps:i40:submodel:product:1:1:BrandInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001",
-      "idType": "IRDI"
-    },
-    "kind": "Instance",
-    "modelType": {
-      "name": "Submodel"
-    },
-    "parent": {
-      "keys": [
-        {
-          "idType": "IRI",
-          "local": false,
-          "type": "AssetAdministrationShell",
-          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-        }
-      ]
-    },
-    "semanticId": {
-      "keys": [
-        {
-          "idType": "IRI",
-          "local": true,
-          "type": "Submodel",
-          "value": ""
-        }
-      ]
-    },
-    "submodelElements": [
-      {
-        "category": "VARIABLE",
-        "dataSpecification": [],
-        "description": [
-          {
-            "language": "EN",
-            "text": "The primary brand of the product, and typically the brand on the label."
-          }
-        ],
-        "editable": "true",
-        "embeddedDataSpecifications": [],
-        "idShort": "BrandName",
-        "kind": "Instance",
-        "modelType": {
-          "name": "Property"
-        },
-        "parent": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": false,
-              "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            },
-            {
-              "idType": "IRDI",
-              "local": true,
-              "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:BrandInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            }
-          ]
-        },
-        "semanticId": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": true,
-              "type": "ConceptDescription",
-              "value": "0173-1#02-AAO742#002"
-            }
-          ]
-        },
-        "value": "Nourish Naturals",
-        "valueId": null,
-        "valueType": "string"
-      },
-      {
-        "category": "VARIABLE",
-        "dataSpecification": [],
-        "description": [
-          {
-            "language": "EN",
-            "text": "Brands may have sub-brands under which products are sold, often with different garment labels and/or sold within specialty collections or campaigns."
-          }
-        ],
-        "editable": "true",
-        "embeddedDataSpecifications": [],
-        "idShort": "SubBrand",
-        "kind": "Instance",
-        "modelType": {
-          "name": "Property"
-        },
-        "parent": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": false,
-              "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            },
-            {
-              "idType": "IRDI",
-              "local": true,
-              "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:BrandInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            }
-          ]
-        },
-        "semanticId": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": true,
-              "type": "ConceptDescription",
-              "value": "0173-1#02-AAO742#002"
-            }
-          ]
-        },
-        "value": "Nourish Naturals",
-        "valueId": null,
-        "valueType": "string"
-      },
-      {
-        "category": "VARIABLE",
-        "dataSpecification": [],
-        "description": [
-          {
-            "language": "EN",
-            "text": "The full name of the registered business entity who puts the product on the market, or if it exists, the parent company of the primary brand of the product"
-          }
-        ],
-        "editable": "true",
-        "embeddedDataSpecifications": [],
-        "idShort": "ParentCompany",
-        "kind": "Instance",
-        "modelType": {
-          "name": "Property"
-        },
-        "parent": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": false,
-              "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            },
-            {
-              "idType": "IRDI",
-              "local": true,
-              "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:BrandInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            }
-          ]
-        },
-        "semanticId": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": true,
-              "type": "ConceptDescription",
-              "value": "0173-1#02-AAO742#002"
-            }
-          ]
-        },
-        "value": "Nourish Naturals",
-        "valueId": null,
-        "valueType": "string"
-      },
-      {
-        "category": "VARIABLE",
-        "dataSpecification": [],
-        "description": [
-          {
-            "language": "EN",
-            "text": "Brand logo"
-          }
-        ],
-        "editable": "true",
-        "embeddedDataSpecifications": [],
-        "idShort": "BrandLogo",
-        "kind": "Instance",
-        "modelType": {
-          "name": "Property"
-        },
-        "parent": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": false,
-              "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            },
-            {
-              "idType": "IRDI",
-              "local": true,
-              "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:BrandInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            }
-          ]
-        },
-        "semanticId": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": true,
-              "type": "ConceptDescription",
-              "value": "0173-1#02-AAO742#002"
-            }
-          ]
-        },
-        "value": "https://cdn-multimedia.uat.industryapps.net/multimedia/Logos/batterypass/OrganicOnly.png",
-        "valueId": null,
-        "valueType": "string"
-      },
-      {
-        "category": "VARIABLE",
-        "dataSpecification": [],
-        "description": [
-          {
-            "language": "EN",
-            "text": "Video information of the respective company"
-          }
-        ],
-        "editable": "true",
-        "embeddedDataSpecifications": [],
-        "idShort": "CompanyVideo",
-        "kind": "Instance",
-        "modelType": {
-          "name": "Property"
-        },
-        "parent": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": false,
-              "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            },
-            {
-              "idType": "IRDI",
-              "local": true,
-              "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:BrandInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            }
-          ]
-        },
-        "semanticId": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": true,
-              "type": "ConceptDescription",
-              "value": "0173-1#02-AAS655#001"
-            }
-          ]
-        },
-        "value": "https://youtu.be/wQWxBa_R6d0",
-        "valueId": null,
-        "valueType": "string"
-      },
-      {
-        "category": "VARIABLE",
-        "dataSpecification": [],
-        "description": [
-          {
-            "language": "EN",
-            "text": "Description about the vision of the respective company"
-          }
-        ],
-        "editable": "true",
-        "embeddedDataSpecifications": [],
-        "idShort": "CompanyVision",
-        "kind": "Instance",
-        "modelType": {
-          "name": "Property"
-        },
-        "parent": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": false,
-              "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            },
-            {
-              "idType": "IRDI",
-              "local": true,
-              "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:BrandInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            }
-          ]
-        },
-        "semanticId": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": true,
-              "type": "ConceptDescription",
-              "value": "0173-1#02-AAK435#004"
-            }
-          ]
-        },
-        "value": "Want to beef even better? The Gamechanger is the only delicious beef patty with up to 67% reduced methane. For just one extra dollar, your choice can help change the world.",
-        "valueId": null,
-        "valueType": "string"
-      }
-    ]
-  },
-  {
-    "administration": {
-      "dataSpecification": [],
-      "embeddedDataSpecifications": [],
-      "revision": "1",
-      "version": "1"
-    },
-    "category": "VARIABLE",
-    "dataSpecification": [],
-    "description": [
-      {
-        "language": "EN",
         "text": "Information about product"
       }
     ],
@@ -3043,7 +2718,7 @@
     "embeddedDataSpecifications": [],
     "idShort": "ProductInformation",
     "identification": {
-      "id": "urn:industryapps:i40:submodel:product:1:1:ProductInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001",
+      "id": "urn:industryapps:i40:submodel:product:1:1:ProductInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01",
       "idType": "IRDI"
     },
     "kind": "Instance",
@@ -3056,7 +2731,7 @@
           "idType": "IRI",
           "local": false,
           "type": "AssetAdministrationShell",
-          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
         }
       ]
     },
@@ -3077,12 +2752,12 @@
         "description": [
           {
             "language": "EN",
-            "text": "A unique, short name that is given to each product by brand"
+            "text": "A unique short name that is given to each product by brand"
           }
         ],
         "editable": "true",
         "embeddedDataSpecifications": [],
-        "idShort": "Product Name",
+        "idShort": "ProductName",
         "kind": "Instance",
         "modelType": {
           "name": "Property"
@@ -3093,13 +2768,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:ProductInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:ProductInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -3113,7 +2788,7 @@
             }
           ]
         },
-        "value": "10-04-2024",
+        "value": "TWINSCAN NXE:3600D",
         "valueId": null,
         "valueType": "string"
       },
@@ -3123,12 +2798,12 @@
         "description": [
           {
             "language": "EN",
-            "text": "Image of the product"
+            "text": "A unique identifier is a specific code or combination of characters assigned to each entity in a system, ensuring individual distinction and facilitating accurate referencing"
           }
         ],
         "editable": "true",
         "embeddedDataSpecifications": [],
-        "idShort": "ProductImage",
+        "idShort": "UniqueIdentifier",
         "kind": "Instance",
         "modelType": {
           "name": "Property"
@@ -3139,13 +2814,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:ProductInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:ProductInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -3155,11 +2830,11 @@
               "idType": "IRI",
               "local": true,
               "type": "ConceptDescription",
-              "value": "0173-1#02-AAK254#003"
+              "value": "0173-1#02-ABA671#001"
             }
           ]
         },
-        "value": "12-04-2024",
+        "value": "ASML2445",
         "valueId": null,
         "valueType": "string"
       },
@@ -3169,12 +2844,12 @@
         "description": [
           {
             "language": "EN",
-            "text": "Advertisement video"
+            "text": "A unique alphanumeric identifier assigned to a specific product or component, aiding in its identification and inventory management"
           }
         ],
         "editable": "true",
         "embeddedDataSpecifications": [],
-        "idShort": "AdVideo",
+        "idShort": "Model/PartNumber",
         "kind": "Instance",
         "modelType": {
           "name": "Property"
@@ -3185,13 +2860,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:ProductInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:ProductInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -3201,11 +2876,11 @@
               "idType": "IRI",
               "local": true,
               "type": "ConceptDescription",
-              "value": "0173-1#02-AAK254#003"
+              "value": "0173-1#02-ABA678#001"
             }
           ]
         },
-        "value": "ECO12345",
+        "value": "56op70",
         "valueId": null,
         "valueType": "string"
       },
@@ -3215,12 +2890,12 @@
         "description": [
           {
             "language": "EN",
-            "text": "Manufactured date"
+            "text": "Name of the manufacturer"
           }
         ],
         "editable": "true",
         "embeddedDataSpecifications": [],
-        "idShort": "ManufacturingDate",
+        "idShort": "Manufacturer Name",
         "kind": "Instance",
         "modelType": {
           "name": "Property"
@@ -3231,13 +2906,105 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:ProductInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:ProductInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-AAO677#002"
+            }
+          ]
+        },
+        "value": "ASML Holdings",
+        "valueId": null,
+        "valueType": "string"
+      },
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "Address of the manufacturer"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "ManufacturerAddress",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:ProductInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-BAE319#002"
+            }
+          ]
+        },
+        "value": "ASML Veldhoven\nDe Run 6501\n5504 DR, Veldhoven\nThe Netherlands\n+31 40 268 3000",
+        "valueId": null,
+        "valueType": "string"
+      },
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "Information about manufactured date"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "DateOfManufacture",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:ProductInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -3251,332 +3018,7 @@
             }
           ]
         },
-        "value": "",
-        "valueId": null,
-        "valueType": "string"
-      },
-      {
-        "category": "VARIABLE",
-        "dataSpecification": [],
-        "description": [
-          {
-            "language": "EN",
-            "text": "Information about validity date of respective product"
-          }
-        ],
-        "editable": "true",
-        "embeddedDataSpecifications": [],
-        "idShort": "Use-by-date",
-        "kind": "Instance",
-        "modelType": {
-          "name": "Property"
-        },
-        "parent": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": false,
-              "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            },
-            {
-              "idType": "IRDI",
-              "local": true,
-              "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:ProductInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            }
-          ]
-        },
-        "semanticId": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": true,
-              "type": "ConceptDescription",
-              "value": "0173-1#02-BAG228#002"
-            }
-          ]
-        },
-        "value": "",
-        "valueId": null,
-        "valueType": "string"
-      },
-      {
-        "category": "VARIABLE",
-        "dataSpecification": [],
-        "description": [
-          {
-            "language": "EN",
-            "text": "Brief statements by companies to promote products, emphasizing benefits to attract consumers"
-          }
-        ],
-        "editable": "true",
-        "embeddedDataSpecifications": [],
-        "idShort": "MarketingClaims",
-        "kind": "Instance",
-        "modelType": {
-          "name": "Property"
-        },
-        "parent": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": false,
-              "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            },
-            {
-              "idType": "IRDI",
-              "local": true,
-              "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:ProductInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            }
-          ]
-        },
-        "semanticId": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": true,
-              "type": "ConceptDescription",
-              "value": "0173-1#02-AAK254#003"
-            }
-          ]
-        },
-        "value": "",
-        "valueId": null,
-        "valueType": "string"
-      },
-      {
-        "category": "VARIABLE",
-        "dataSpecification": [],
-        "description": [
-          {
-            "language": "EN",
-            "text": "Unique Identifier for product"
-          }
-        ],
-        "editable": "true",
-        "embeddedDataSpecifications": [],
-        "idShort": "ProductUniqueIdentifier",
-        "kind": "Instance",
-        "modelType": {
-          "name": "Property"
-        },
-        "parent": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": false,
-              "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            },
-            {
-              "idType": "IRDI",
-              "local": true,
-              "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:ProductInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            }
-          ]
-        },
-        "semanticId": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": true,
-              "type": "ConceptDescription",
-              "value": "0173-1#02-AAK254#003"
-            }
-          ]
-        },
-        "value": "",
-        "valueId": null,
-        "valueType": "string"
-      }
-    ]
-  },
-  {
-    "administration": {
-      "dataSpecification": [],
-      "embeddedDataSpecifications": [],
-      "revision": "1",
-      "version": "1"
-    },
-    "category": "VARIABLE",
-    "dataSpecification": [],
-    "description": [
-      {
-        "language": "EN",
-        "text": "A unique identifier used to identify a digital resource"
-      }
-    ],
-    "editable": "true",
-    "embeddedDataSpecifications": [],
-    "idShort": "DigitalIdentifier",
-    "identification": {
-      "id": "urn:industryapps:i40:submodel:product:1:1:DigitalIdentifier#GNJU8.PLANTCUCUM.FOOD-DEMO25_001",
-      "idType": "IRDI"
-    },
-    "kind": "Instance",
-    "modelType": {
-      "name": "Submodel"
-    },
-    "parent": {
-      "keys": [
-        {
-          "idType": "IRI",
-          "local": false,
-          "type": "AssetAdministrationShell",
-          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-        }
-      ]
-    },
-    "semanticId": {
-      "keys": [
-        {
-          "idType": "IRI",
-          "local": true,
-          "type": "Submodel",
-          "value": ""
-        }
-      ]
-    },
-    "submodelElements": [
-      {
-        "category": "VARIABLE",
-        "dataSpecification": [],
-        "description": [
-          {
-            "language": "EN",
-            "text": "The type of physical data carrier attached to the product"
-          }
-        ],
-        "editable": "true",
-        "embeddedDataSpecifications": [],
-        "idShort": "DataCarrier/IdentifierType",
-        "kind": "Instance",
-        "modelType": {
-          "name": "Property"
-        },
-        "parent": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": false,
-              "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            },
-            {
-              "idType": "IRDI",
-              "local": true,
-              "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:DigitalIdentifier#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            }
-          ]
-        },
-        "semanticId": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": true,
-              "type": "ConceptDescription",
-              "value": "0173-1#02-AAM534#003"
-            }
-          ]
-        },
-        "value": "",
-        "valueId": null,
-        "valueType": "string"
-      },
-      {
-        "category": "VARIABLE",
-        "dataSpecification": [],
-        "description": [
-          {
-            "language": "EN",
-            "text": "The type of material the data carrier is made from. Multiple materials may be needed"
-          }
-        ],
-        "editable": "true",
-        "embeddedDataSpecifications": [],
-        "idShort": "DataCarrier/IdentifierMaterial",
-        "kind": "Instance",
-        "modelType": {
-          "name": "Property"
-        },
-        "parent": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": false,
-              "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            },
-            {
-              "idType": "IRDI",
-              "local": true,
-              "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:DigitalIdentifier#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            }
-          ]
-        },
-        "semanticId": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": true,
-              "type": "ConceptDescription",
-              "value": "0173-1#02-BAB664#016"
-            }
-          ]
-        },
-        "value": "",
-        "valueId": null,
-        "valueType": "string"
-      },
-      {
-        "category": "VARIABLE",
-        "dataSpecification": [],
-        "description": [
-          {
-            "language": "EN",
-            "text": "The location on the garment on which the physical identifier may be found."
-          }
-        ],
-        "editable": "true",
-        "embeddedDataSpecifications": [],
-        "idShort": "DataCarrier/IdentifierLocation",
-        "kind": "Instance",
-        "modelType": {
-          "name": "Property"
-        },
-        "parent": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": false,
-              "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            },
-            {
-              "idType": "IRDI",
-              "local": true,
-              "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:DigitalIdentifier#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            }
-          ]
-        },
-        "semanticId": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": true,
-              "type": "ConceptDescription",
-              "value": "0173-1#02-ABA686#001"
-            }
-          ]
-        },
-        "value": "",
+        "value": "10-10-2023",
         "valueId": null,
         "valueType": "string"
       }
@@ -3601,7 +3043,7 @@
     "embeddedDataSpecifications": [],
     "idShort": "CircularityInformation",
     "identification": {
-      "id": "urn:industryapps:i40:submodel:product:1:1:CircularityInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001",
+      "id": "urn:industryapps:i40:submodel:product:1:1:CircularityInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01",
       "idType": "IRDI"
     },
     "kind": "Instance",
@@ -3614,7 +3056,7 @@
           "idType": "IRI",
           "local": false,
           "type": "AssetAdministrationShell",
-          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
         }
       ]
     },
@@ -3635,99 +3077,7 @@
         "description": [
           {
             "language": "EN",
-            "text": "Information about whether the food grown locally or not"
-          }
-        ],
-        "editable": "true",
-        "embeddedDataSpecifications": [],
-        "idShort": "FoodGrownLocally",
-        "kind": "Instance",
-        "modelType": {
-          "name": "Property"
-        },
-        "parent": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": false,
-              "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            },
-            {
-              "idType": "IRDI",
-              "local": true,
-              "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:CircularityInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            }
-          ]
-        },
-        "semanticId": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": true,
-              "type": "ConceptDescription",
-              "value": "0173-1#02-AAK254#003"
-            }
-          ]
-        },
-        "value": "Yes",
-        "valueId": null,
-        "valueType": "string"
-      },
-      {
-        "category": "VARIABLE",
-        "dataSpecification": [],
-        "description": [
-          {
-            "language": "EN",
-            "text": "whether the food was created using iPSC (Induced pluripotent stem cell technology)"
-          }
-        ],
-        "editable": "true",
-        "embeddedDataSpecifications": [],
-        "idShort": "iPSCtechnology",
-        "kind": "Instance",
-        "modelType": {
-          "name": "Property"
-        },
-        "parent": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": false,
-              "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            },
-            {
-              "idType": "IRDI",
-              "local": true,
-              "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:CircularityInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            }
-          ]
-        },
-        "semanticId": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": true,
-              "type": "ConceptDescription",
-              "value": "0173-1#02-AAK254#003"
-            }
-          ]
-        },
-        "value": "Yes",
-        "valueId": null,
-        "valueType": "string"
-      },
-      {
-        "category": "VARIABLE",
-        "dataSpecification": [],
-        "description": [
-          {
-            "language": "EN",
-            "text": "Recycling instructions"
+            "text": "Description on how to recycle the garment"
           }
         ],
         "editable": "true",
@@ -3743,13 +3093,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:CircularityInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:CircularityInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -3763,7 +3113,7 @@
             }
           ]
         },
-        "value": "1. Use a dedicated food waste bin\n2. Collect all your food scraps, including fruit and vegetable peels, coffee grounds, eggshells, and plate scrapings.\n3. Be mindful of contaminants like plastics, glass, or non-organic materials. You should avoid placing these in your food waste bin, as they can disrupt the recycling process.\n4. Store your food waste bin in a cool, dry place, preferably in your kitchen. This convenient location encourages regular use and proper disposal of food scraps.\n5. If you have a food waste caddy, there's a good chance you have regular food waste collections in your area. Check the website for your local authority to find out when and how frequently collections are made and start to put your caddy out on collection day.\n6. Join local initiatives: Many communities have volunteer groups or organisations dedicated to food waste reduction and recycling. Consider joining or supporting these groups to make a more significant impact.\n7. Advocate for change: If there's nothing available in your area, consider advocating for a food waste recycling programme. ",
+        "value": "Reduce e-waste: Consider upgrading hardware or software instead of buying a new product, and teach kids about e-waste.\nDon't mix e-waste with household waste: Don't put e-waste in wet or dry waste bins, or give it to informal sectors like rag pickers.\nRemove batteries: Remove any batteries, and lithium-ion batteries should not go in household garbage or recycling bins.\nDelete personal information: Delete all personal information from your electronics.\nFind a recycling center: Many retailers offer free recycling schemes or take-back options. You can also check your postcode on a recycling locator tool to find the nearest recycling center that accepts waste electronics.\nGive it to a local organization: Find a reliable local organization who will recycle it",
         "valueId": null,
         "valueType": "string"
       }
@@ -3788,7 +3138,7 @@
     "embeddedDataSpecifications": [],
     "idShort": "SupplyChainInformation",
     "identification": {
-      "id": "urn:industryapps:i40:submodel:product:1:1:SupplyChainInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001",
+      "id": "urn:industryapps:i40:submodel:product:1:1:SupplyChainInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01",
       "idType": "IRDI"
     },
     "kind": "Instance",
@@ -3801,7 +3151,7 @@
           "idType": "IRI",
           "local": false,
           "type": "AssetAdministrationShell",
-          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
         }
       ]
     },
@@ -3817,36 +3167,80 @@
     },
     "submodelElements": [
       {
-        "allowDuplicates": true,
         "category": "VARIABLE",
         "dataSpecification": [],
         "description": [
           {
             "language": "EN",
-            "text": "Information about the supplier"
+            "text": "The name of the company operating the specific manufacturing facility where production took place."
           }
         ],
         "editable": "true",
         "embeddedDataSpecifications": [],
-        "idShort": "SupplierInformation",
+        "idShort": "SupplierName",
         "kind": "Instance",
         "modelType": {
-          "name": "SubmodelElementCollection"
+          "name": "Property"
         },
-        "ordered": true,
         "parent": {
           "keys": [
             {
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:SupplyChainInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:SupplyChainInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-AAO735#003"
+            }
+          ]
+        },
+        "value": "bactobac Precision",
+        "valueId": null,
+        "valueType": "string"
+      },
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "Information involves how tracking and recording the movement and origin of products or components throughout the supply chain to enhance transparency and accountability"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "SupplyChainTraceability",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:SupplyChainInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -3860,71 +3254,11 @@
             }
           ]
         },
-        "value": [
-          {
-            "category": "VARIABLE",
-            "dataSpecification": [],
-            "description": [
-              {
-                "language": "EN",
-                "text": "Information about the wheat flour supplier"
-              }
-            ],
-            "editable": "true",
-            "embeddedDataSpecifications": [],
-            "idShort": "Wheat Flour Supplier",
-            "kind": "Instance",
-            "modelType": {
-              "name": "Property"
-            },
-            "semanticId": {
-              "keys": [
-                {
-                  "idType": "IRI",
-                  "local": true,
-                  "type": "ConceptDescription",
-                  "value": "0173-1#02-AAS655#001"
-                }
-              ]
-            },
-            "value": "CBH Group",
-            "valueId": null,
-            "valueType": "string"
-          },
-          {
-            "category": "VARIABLE",
-            "dataSpecification": [],
-            "description": [
-              {
-                "language": "EN",
-                "text": "Information about sugar supplier"
-              }
-            ],
-            "editable": "true",
-            "embeddedDataSpecifications": [],
-            "idShort": "Sugar Supplier",
-            "kind": "Instance",
-            "modelType": {
-              "name": "Property"
-            },
-            "semanticId": {
-              "keys": [
-                {
-                  "idType": "IRI",
-                  "local": true,
-                  "type": "ConceptDescription",
-                  "value": "0173-1#02-AAS655#001"
-                }
-              ]
-            },
-            "value": "SugarSupplier",
-            "valueId": null,
-            "valueType": "string"
-          }
-        ]
+        "value": "Batch Tracking",
+        "valueId": null,
+        "valueType": "string"
       },
       {
-        "allowDuplicates": true,
         "category": "VARIABLE",
         "dataSpecification": [],
         "description": [
@@ -3935,25 +3269,24 @@
         ],
         "editable": "true",
         "embeddedDataSpecifications": [],
-        "idShort": "CountryofOrigin",
+        "idShort": "CountryOfOrigin",
         "kind": "Instance",
         "modelType": {
-          "name": "SubmodelElementCollection"
+          "name": "Property"
         },
-        "ordered": true,
         "parent": {
           "keys": [
             {
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:SupplyChainInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:SupplyChainInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -3967,68 +3300,288 @@
             }
           ]
         },
-        "value": [
+        "value": "Netherlands",
+        "valueId": null,
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "administration": {
+      "dataSpecification": [],
+      "embeddedDataSpecifications": [],
+      "revision": "1",
+      "version": "1"
+    },
+    "category": "VARIABLE",
+    "dataSpecification": [],
+    "description": [
+      {
+        "language": "EN",
+        "text": "Information about material"
+      }
+    ],
+    "editable": "true",
+    "embeddedDataSpecifications": [],
+    "idShort": "MaterialInformation",
+    "identification": {
+      "id": "urn:industryapps:i40:submodel:product:1:1:MaterialInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01",
+      "idType": "IRDI"
+    },
+    "kind": "Instance",
+    "modelType": {
+      "name": "Submodel"
+    },
+    "parent": {
+      "keys": [
+        {
+          "idType": "IRI",
+          "local": false,
+          "type": "AssetAdministrationShell",
+          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+        }
+      ]
+    },
+    "semanticId": {
+      "keys": [
+        {
+          "idType": "IRI",
+          "local": true,
+          "type": "Submodel",
+          "value": ""
+        }
+      ]
+    },
+    "submodelElements": [
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
           {
-            "category": "VARIABLE",
-            "dataSpecification": [],
-            "description": [
-              {
-                "language": "EN",
-                "text": "Country of origin information about wheat flour"
-              }
-            ],
-            "editable": "true",
-            "embeddedDataSpecifications": [],
-            "idShort": "Wheat Flour",
-            "kind": "Instance",
-            "modelType": {
-              "name": "Property"
-            },
-            "semanticId": {
-              "keys": [
-                {
-                  "idType": "IRI",
-                  "local": true,
-                  "type": "ConceptDescription",
-                  "value": "0173-1#02-AAO995#001"
-                }
-              ]
-            },
-            "value": "",
-            "valueId": null,
-            "valueType": "string"
-          },
-          {
-            "category": "VARIABLE",
-            "dataSpecification": [],
-            "description": [
-              {
-                "language": "EN",
-                "text": "Country of origin information about sugar"
-              }
-            ],
-            "editable": "true",
-            "embeddedDataSpecifications": [],
-            "idShort": "Sugar",
-            "kind": "Instance",
-            "modelType": {
-              "name": "Property"
-            },
-            "semanticId": {
-              "keys": [
-                {
-                  "idType": "IRI",
-                  "local": true,
-                  "type": "ConceptDescription",
-                  "value": "0173-1#02-AAO995#001"
-                }
-              ]
-            },
-            "value": "",
-            "valueId": null,
-            "valueType": "string"
+            "language": "EN",
+            "text": "Part of the product that is being described with info about material type, fiber composition, recycled content etc."
           }
-        ]
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "Component",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:MaterialInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-BAB664#016"
+            }
+          ]
+        },
+        "value": "",
+        "valueId": null,
+        "valueType": "string"
+      },
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "The type of material a component is made from; this selection dictates further materials description needs, such as fiber composition, leather grade etc."
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "Material",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:MaterialInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-BAB664#016"
+            }
+          ]
+        },
+        "value": "FR-4 (fiberglass-reinforced epoxy laminate)",
+        "valueId": null,
+        "valueType": "string"
+      },
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "For textile products, this describes the type of fiber used for a specific component"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "ContentName",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:MaterialInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-BAB664#016"
+            }
+          ]
+        },
+        "value": "",
+        "valueId": null,
+        "valueType": "string"
+      },
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "For textile products, this is the percentage of fiber used for a specific component"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "ContentValue",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:MaterialInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-BAB664#016"
+            }
+          ]
+        },
+        "value": "",
+        "valueId": null,
+        "valueType": "string"
+      },
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "For textile products, this is the source of fiber"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "ContentSource",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:MaterialInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-BAB664#016"
+            }
+          ]
+        },
+        "value": "",
+        "valueId": null,
+        "valueType": "string"
       }
     ]
   },
@@ -4051,7 +3604,7 @@
     "embeddedDataSpecifications": [],
     "idShort": "ComplianceInformation",
     "identification": {
-      "id": "urn:industryapps:i40:submodel:product:1:1:ComplianceInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001",
+      "id": "urn:industryapps:i40:submodel:product:1:1:ComplianceInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01",
       "idType": "IRDI"
     },
     "kind": "Instance",
@@ -4064,7 +3617,7 @@
           "idType": "IRI",
           "local": false,
           "type": "AssetAdministrationShell",
-          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
         }
       ]
     },
@@ -4101,13 +3654,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:ComplianceInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:ComplianceInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -4121,7 +3674,7 @@
             }
           ]
         },
-        "value": "Nil",
+        "value": "Lead-free",
         "valueId": null,
         "valueType": "string"
       },
@@ -4147,13 +3700,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:ComplianceInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:ComplianceInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -4193,13 +3746,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:ComplianceInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:ComplianceInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -4213,53 +3766,7 @@
             }
           ]
         },
-        "value": "RSPCA certified",
-        "valueId": null,
-        "valueType": "string"
-      },
-      {
-        "category": "VARIABLE",
-        "dataSpecification": [],
-        "description": [
-          {
-            "language": "EN",
-            "text": "The list of product level chemical compliance certifications or regulations with which the product complies."
-          }
-        ],
-        "editable": "true",
-        "embeddedDataSpecifications": [],
-        "idShort": "ChemicalCompliance(Standard)",
-        "kind": "Instance",
-        "modelType": {
-          "name": "Property"
-        },
-        "parent": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": false,
-              "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            },
-            {
-              "idType": "IRDI",
-              "local": true,
-              "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:ComplianceInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
-            }
-          ]
-        },
-        "semanticId": {
-          "keys": [
-            {
-              "idType": "IRI",
-              "local": true,
-              "type": "ConceptDescription",
-              "value": "0173-1#02-AAT105#002"
-            }
-          ]
-        },
-        "value": "",
+        "value": "EN 60950-1:2006+A11:2009",
         "valueId": null,
         "valueType": "string"
       },
@@ -4285,13 +3792,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:ComplianceInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:ComplianceInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -4305,9 +3812,55 @@
             }
           ]
         },
-        "value": "TraceX Technologies",
+        "value": "Batch Tracking",
         "valueId": null,
         "valueType": "string"
+      },
+      {
+        "allowDuplicates": true,
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "Compliance with eco-design regulations information"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "ComplianceWithEcodesignRegulations",
+        "kind": "Instance",
+        "modelType": {
+          "name": "SubmodelElementCollection"
+        },
+        "ordered": true,
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:ComplianceInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-AAE327#001"
+            }
+          ]
+        },
+        "value": "EPEAT Silver"
       }
     ]
   },
@@ -4330,7 +3883,7 @@
     "embeddedDataSpecifications": [],
     "idShort": "SustainabilityInformation",
     "identification": {
-      "id": "urn:industryapps:i40:submodel:product:1:1:SustainabilityInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001",
+      "id": "urn:industryapps:i40:submodel:product:1:1:SustainabilityInformationGNJU8.PLANTCUCUM.ELE-DEMO2504_01",
       "idType": "IRDI"
     },
     "kind": "Instance",
@@ -4343,7 +3896,7 @@
           "idType": "IRI",
           "local": false,
           "type": "AssetAdministrationShell",
-          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
         }
       ]
     },
@@ -4364,12 +3917,12 @@
         "description": [
           {
             "language": "EN",
-            "text": "Information about the material that provides essential details about the composition, recyclability, and potential environmental impact of packaging materials, aiding consumers and businesses in making sustainable choices"
+            "text": "Information provided about circular, sustainable, and social practices in place, as written by the brand. Excludes certifications on product. This information is guided by the Green Claims Directive."
           }
         ],
         "editable": "true",
         "embeddedDataSpecifications": [],
-        "idShort": "Packaging Material Information",
+        "idShort": "SocialBrandStatement",
         "kind": "Instance",
         "modelType": {
           "name": "Property"
@@ -4380,13 +3933,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:SustainabilityInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:SustainabilityInformationGNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -4396,11 +3949,11 @@
               "idType": "IRI",
               "local": true,
               "type": "ConceptDescription",
-              "value": "0173-1#02-AAK254#003"
+              "value": "0173-1#02-AAS655#001"
             }
           ]
         },
-        "value": "Thanks to water-based coatings, our packaging and burger boxes are 100% recyclable. We?re also plastic-straw free",
+        "value": "Low power consumption ",
         "valueId": null,
         "valueType": "string"
       },
@@ -4410,12 +3963,12 @@
         "description": [
           {
             "language": "EN",
-            "text": "Information about the pollution creates helping us understand and reduce its impact on the environment"
+            "text": "Link(s) to EU Certificate of Confirmity and / or more information about circular, sustainable, and social practices in place, as validated by a 3rd party or reported in regulatory reporting systems. Excludes certifications on product. This information is guided by the Green Claims Directive"
           }
         ],
         "editable": "true",
         "embeddedDataSpecifications": [],
-        "idShort": "Carbon Footprint Information",
+        "idShort": "SocialBrandStatementLink",
         "kind": "Instance",
         "modelType": {
           "name": "Property"
@@ -4426,13 +3979,13 @@
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:SustainabilityInformation#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:SustainabilityInformationGNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -4442,11 +3995,57 @@
               "idType": "IRI",
               "local": true,
               "type": "ConceptDescription",
-              "value": "0173-1#02-AAK254#003"
+              "value": "0173-1#02-AAS655#001"
             }
           ]
         },
-        "value": "100% of the paper and cardboard for our takeaway packaging, knife sleeves and Mini Me kids packs is PEFC and FSC Certified. It comes from sustainably planted forests. For every tree cut down, another one gets planted in its place.",
+        "value": "Energy Star Certified",
+        "valueId": null,
+        "valueType": "string"
+      },
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "TBC"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "QuantifiedEnvironmentalFootprint",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:SustainabilityInformationGNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-AAS655#001"
+            }
+          ]
+        },
+        "value": "1. global warming potential\n2. water pollution\n3. ozone depletion",
         "valueId": null,
         "valueType": "string"
       }
@@ -4464,14 +4063,14 @@
     "description": [
       {
         "language": "EN",
-        "text": "Nutritional and ingredients information"
+        "text": "Information about the physical characteristics of the Electronic product"
       }
     ],
     "editable": "true",
     "embeddedDataSpecifications": [],
-    "idShort": "Nutritional Profile",
+    "idShort": "PhysicalCharacteristics",
     "identification": {
-      "id": "urn:industryapps:i40:submodel:product:1:1:Nutritional Profile#GNJU8.PLANTCUCUM.FOOD-DEMO25_001",
+      "id": "urn:industryapps:i40:submodel:product:1:1:PhysicalCharacteristics#GNJU8.PLANTCUCUM.ELE-DEMO2504_01",
       "idType": "IRDI"
     },
     "kind": "Instance",
@@ -4484,7 +4083,7 @@
           "idType": "IRI",
           "local": false,
           "type": "AssetAdministrationShell",
-          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
         }
       ]
     },
@@ -4500,36 +4099,34 @@
     },
     "submodelElements": [
       {
-        "allowDuplicates": true,
         "category": "VARIABLE",
         "dataSpecification": [],
         "description": [
           {
             "language": "EN",
-            "text": "Information about the ingredients used in the respective product"
+            "text": "Information about physical measurements or spatial extents that are relatively compact or limited in size"
           }
         ],
         "editable": "true",
         "embeddedDataSpecifications": [],
-        "idShort": "Ingredients",
+        "idShort": "Dimensions",
         "kind": "Instance",
         "modelType": {
-          "name": "SubmodelElementCollection"
+          "name": "Property"
         },
-        "ordered": true,
         "parent": {
           "keys": [
             {
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:Nutritional Profile#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:PhysicalCharacteristics#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -4539,224 +4136,43 @@
               "idType": "IRI",
               "local": true,
               "type": "ConceptDescription",
-              "value": "0173-1#02-AAK254#003"
+              "value": "0173-1#02-AAO744#003"
             }
           ]
         },
-        "value": [
-          {
-            "category": "VARIABLE",
-            "dataSpecification": [],
-            "description": [
-              {
-                "language": "EN",
-                "text": "Information about the ingredients used in our respective product"
-              }
-            ],
-            "editable": "true",
-            "embeddedDataSpecifications": [],
-            "idShort": "IngredientsInfo",
-            "kind": "Instance",
-            "modelType": {
-              "name": "Property"
-            },
-            "semanticId": {
-              "keys": [
-                {
-                  "idType": "IRI",
-                  "local": true,
-                  "type": "ConceptDescription",
-                  "value": "0173-1#02-AAK254#003"
-                }
-              ]
-            },
-            "value": "ECOBURG PATTY (37%) (Beef meat (86%), Relish (13%) (Tomato (49%) (Tomato, Acidity Regulator (Citric Acid)), Sugar, Vinegar, Onion, Starch, Tomato Paste, Salt, Spices, Garlic), Salt, Parsley), Traditional Bun (Wheat Flour (Wheat Flour, Folic Acid, Thiamin), Water, Sesame Seeds, Canola Oil, Wheat Meal, Yeast, Wheat Gluten, Salt, Rice Flour, Malt Flour, Ascorbic Acid (Vitamin C), Wheat Enzyme), Tomato, Tomato Relish (Tomato (46%), Sugar, Water, Onion, Apple Cider Vinegar, Tapioca Starch, Salt, Tomato Paste (0.5%), Mustard Seed, Citric Acid, Spices), Cos Lettuce, Herb Mayonnaise (Canola Oil, Pasteurised Free Range Whole Egg, Liquid Sugar, Water, White Vinegar, Mustard, Salt, Herbs & Spices, Corn Starch, Lemon Juice, Acidity Regulator (Citric)), Spanish Onion.",
-            "valueId": null,
-            "valueType": "string"
-          },
-          {
-            "category": "VARIABLE",
-            "dataSpecification": [],
-            "description": [
-              {
-                "language": "EN",
-                "text": "Information about allergic substances"
-              }
-            ],
-            "editable": "true",
-            "embeddedDataSpecifications": [],
-            "idShort": "AllergyInformation",
-            "kind": "Instance",
-            "modelType": {
-              "name": "Property"
-            },
-            "semanticId": {
-              "keys": [
-                {
-                  "idType": "IRI",
-                  "local": true,
-                  "type": "ConceptDescription",
-                  "value": "0173-1#02-AAK254#003"
-                }
-              ]
-            },
-            "value": "Contains Wheat, Barley, Egg, Sesame Seeds.",
-            "valueId": null,
-            "valueType": "string"
-          },
-          {
-            "category": "VARIABLE",
-            "dataSpecification": [],
-            "description": [
-              {
-                "language": "EN",
-                "text": "Indicates the date by which the store should sell the product"
-              }
-            ],
-            "editable": "true",
-            "embeddedDataSpecifications": [],
-            "idShort": "Sell-by date",
-            "kind": "Instance",
-            "modelType": {
-              "name": "Property"
-            },
-            "semanticId": {
-              "keys": [
-                {
-                  "idType": "IRI",
-                  "local": true,
-                  "type": "ConceptDescription",
-                  "value": "0173-1#02-AAO997#001"
-                }
-              ]
-            },
-            "value": "10-04-2024",
-            "valueId": null,
-            "valueType": "string"
-          },
-          {
-            "category": "VARIABLE",
-            "dataSpecification": [],
-            "description": [
-              {
-                "language": "EN",
-                "text": "Suggests the date until which the product is expected to retain its optimal quality, such as taste and texture"
-              }
-            ],
-            "editable": "true",
-            "embeddedDataSpecifications": [],
-            "idShort": "Best-by date",
-            "kind": "Instance",
-            "modelType": {
-              "name": "Property"
-            },
-            "semanticId": {
-              "keys": [
-                {
-                  "idType": "IRI",
-                  "local": true,
-                  "type": "ConceptDescription",
-                  "value": "0173-1#02-BAG228#002"
-                }
-              ]
-            },
-            "value": "10-04-2024",
-            "valueId": null,
-            "valueType": "string"
-          },
-          {
-            "category": "VARIABLE",
-            "dataSpecification": [],
-            "description": [
-              {
-                "language": "EN",
-                "text": "Specifies the last date recommended for consuming the product for the best quality"
-              }
-            ],
-            "editable": "true",
-            "embeddedDataSpecifications": [],
-            "idShort": "Use-by date",
-            "kind": "Instance",
-            "modelType": {
-              "name": "Property"
-            },
-            "semanticId": {
-              "keys": [
-                {
-                  "idType": "IRI",
-                  "local": true,
-                  "type": "ConceptDescription",
-                  "value": "0173-1#02-BAG228#002"
-                }
-              ]
-            },
-            "value": "12-04-2024",
-            "valueId": null,
-            "valueType": "string"
-          },
-          {
-            "category": "VARIABLE",
-            "dataSpecification": [],
-            "description": [
-              {
-                "language": "EN",
-                "text": "Safety instructions"
-              }
-            ],
-            "editable": "true",
-            "embeddedDataSpecifications": [],
-            "idShort": "NutritionAdvice",
-            "kind": "Instance",
-            "modelType": {
-              "name": "Property"
-            },
-            "semanticId": {
-              "keys": [
-                {
-                  "idType": "IRI",
-                  "local": true,
-                  "type": "ConceptDescription",
-                  "value": "0173-1#02-BAE224#003"
-                }
-              ]
-            },
-            "value": "Note: these quantities are averages only and may vary from product to product due to the handcrafted nature of Grill'd products. The average adult daily energy intake is 8700 kJ.",
-            "valueId": null,
-            "valueType": "string"
-          }
-        ]
+        "value": "given",
+        "valueId": null,
+        "valueType": "string"
       },
       {
-        "allowDuplicates": true,
         "category": "VARIABLE",
         "dataSpecification": [],
         "description": [
           {
             "language": "EN",
-            "text": "Information about the nutrition"
+            "text": "Information about the weight of the product"
           }
         ],
         "editable": "true",
         "embeddedDataSpecifications": [],
-        "idShort": "NutritionalValues",
+        "idShort": "Weight",
         "kind": "Instance",
         "modelType": {
-          "name": "SubmodelElementCollection"
+          "name": "Property"
         },
-        "ordered": true,
         "parent": {
           "keys": [
             {
               "idType": "IRI",
               "local": false,
               "type": "AssetAdministrationShell",
-              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             },
             {
               "idType": "IRDI",
               "local": true,
               "type": "Submodel",
-              "value": "urn:industryapps:i40:submodel:product:1:1:Nutritional Profile#GNJU8.PLANTCUCUM.FOOD-DEMO25_001"
+              "value": "urn:industryapps:i40:submodel:product:1:1:PhysicalCharacteristics#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
             }
           ]
         },
@@ -4766,374 +4182,1135 @@
               "idType": "IRI",
               "local": true,
               "type": "ConceptDescription",
-              "value": "0173-1#02-AAK254#003"
+              "value": "0173-1#02-AAG535#002"
             }
           ]
         },
-        "value": [
+        "value": "800 gms",
+        "valueId": null,
+        "valueType": "string"
+      },
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
           {
-            "allowDuplicates": true,
-            "category": "VARIABLE",
-            "dataSpecification": [],
-            "description": [
-              {
-                "language": "EN",
-                "text": "Includes information about carbohydrates, proteins, and fats, which provide energy and serve as building blocks for the body"
-              }
-            ],
-            "editable": "true",
-            "embeddedDataSpecifications": [],
-            "idShort": "Macronutrients",
-            "kind": "Instance",
-            "modelType": {
-              "name": "SubmodelElementCollection"
-            },
-            "ordered": true,
-            "semanticId": {
-              "keys": [
-                {
-                  "idType": "IRI",
-                  "local": true,
-                  "type": "ConceptDescription",
-                  "value": "0173-1#02-AAK254#003"
-                }
-              ]
-            },
-            "value": [
-              {
-                "category": "VARIABLE",
-                "dataSpecification": [],
-                "description": [
-                  {
-                    "language": "EN",
-                    "text": "Information about the level of carbohydrates present in the food"
-                  }
-                ],
-                "editable": "true",
-                "embeddedDataSpecifications": [],
-                "idShort": "Carbohydrates",
-                "kind": "Instance",
-                "modelType": {
-                  "name": "Property"
-                },
-                "semanticId": {
-                  "keys": [
-                    {
-                      "idType": "IRI",
-                      "local": true,
-                      "type": "ConceptDescription",
-                      "value": "0173-1#02-AAK254#003"
-                    }
-                  ]
-                },
-                "value": "36.0g",
-                "valueId": null,
-                "valueType": "string"
-              },
-              {
-                "category": "VARIABLE",
-                "dataSpecification": [],
-                "description": [
-                  {
-                    "language": "EN",
-                    "text": "Information about the level of proteins present in the food"
-                  }
-                ],
-                "editable": "true",
-                "embeddedDataSpecifications": [],
-                "idShort": "Proteins",
-                "kind": "Instance",
-                "modelType": {
-                  "name": "Property"
-                },
-                "semanticId": {
-                  "keys": [
-                    {
-                      "idType": "IRI",
-                      "local": true,
-                      "type": "ConceptDescription",
-                      "value": "0173-1#02-AAK254#003"
-                    }
-                  ]
-                },
-                "value": "29.2g",
-                "valueId": null,
-                "valueType": "string"
-              },
-              {
-                "category": "VARIABLE",
-                "dataSpecification": [],
-                "description": [
-                  {
-                    "language": "EN",
-                    "text": "Information about the level of fats present in the food"
-                  }
-                ],
-                "editable": "true",
-                "embeddedDataSpecifications": [],
-                "idShort": "Fats",
-                "kind": "Instance",
-                "modelType": {
-                  "name": "Property"
-                },
-                "semanticId": {
-                  "keys": [
-                    {
-                      "idType": "IRI",
-                      "local": true,
-                      "type": "ConceptDescription",
-                      "value": "0173-1#02-AAK254#003"
-                    }
-                  ]
-                },
-                "value": "30.5g",
-                "valueId": null,
-                "valueType": "string"
-              }
-            ]
-          },
-          {
-            "allowDuplicates": true,
-            "category": "VARIABLE",
-            "dataSpecification": [],
-            "description": [
-              {
-                "language": "EN",
-                "text": "Information about essential vitamins and minerals required in smaller quantities for various physiological functions"
-              }
-            ],
-            "editable": "true",
-            "embeddedDataSpecifications": [],
-            "idShort": "Micronutrients",
-            "kind": "Instance",
-            "modelType": {
-              "name": "SubmodelElementCollection"
-            },
-            "ordered": true,
-            "semanticId": {
-              "keys": [
-                {
-                  "idType": "IRI",
-                  "local": true,
-                  "type": "ConceptDescription",
-                  "value": "0173-1#02-AAK254#003"
-                }
-              ]
-            },
-            "value": [
-              {
-                "category": "VARIABLE",
-                "dataSpecification": [],
-                "description": [
-                  {
-                    "language": "EN",
-                    "text": "Information about the level of vitamins present in the food"
-                  }
-                ],
-                "editable": "true",
-                "embeddedDataSpecifications": [],
-                "idShort": "Vitamins",
-                "kind": "Instance",
-                "modelType": {
-                  "name": "Property"
-                },
-                "semanticId": {
-                  "keys": [
-                    {
-                      "idType": "IRI",
-                      "local": true,
-                      "type": "ConceptDescription",
-                      "value": "0173-1#02-AAK254#003"
-                    }
-                  ]
-                },
-                "value": "",
-                "valueId": null,
-                "valueType": "string"
-              },
-              {
-                "category": "VARIABLE",
-                "dataSpecification": [],
-                "description": [
-                  {
-                    "language": "EN",
-                    "text": "Information about the level of minerals present in the food"
-                  }
-                ],
-                "editable": "true",
-                "embeddedDataSpecifications": [],
-                "idShort": "Minerals",
-                "kind": "Instance",
-                "modelType": {
-                  "name": "Property"
-                },
-                "semanticId": {
-                  "keys": [
-                    {
-                      "idType": "IRI",
-                      "local": true,
-                      "type": "ConceptDescription",
-                      "value": "0173-1#02-AAK254#003"
-                    }
-                  ]
-                },
-                "value": "",
-                "valueId": null,
-                "valueType": "string"
-              }
-            ]
-          },
-          {
-            "category": "VARIABLE",
-            "dataSpecification": [],
-            "description": [
-              {
-                "language": "EN",
-                "text": "The unit of energy derived from macronutrients, often listed per serving size"
-              }
-            ],
-            "editable": "true",
-            "embeddedDataSpecifications": [],
-            "idShort": "Calories",
-            "kind": "Instance",
-            "modelType": {
-              "name": "Property"
-            },
-            "semanticId": {
-              "keys": [
-                {
-                  "idType": "IRI",
-                  "local": true,
-                  "type": "ConceptDescription",
-                  "value": "0173-1#02-AAK254#003"
-                }
-              ]
-            },
-            "value": "2510kJ",
-            "valueId": null,
-            "valueType": "string"
-          },
-          {
-            "category": "VARIABLE",
-            "dataSpecification": [],
-            "description": [
-              {
-                "language": "EN",
-                "text": "A type of carbohydrate important for digestive health"
-              }
-            ],
-            "editable": "true",
-            "embeddedDataSpecifications": [],
-            "idShort": "Fiber",
-            "kind": "Instance",
-            "modelType": {
-              "name": "Property"
-            },
-            "semanticId": {
-              "keys": [
-                {
-                  "idType": "IRI",
-                  "local": true,
-                  "type": "ConceptDescription",
-                  "value": "0173-1#02-AAK254#003"
-                }
-              ]
-            },
-            "value": "2%",
-            "valueId": null,
-            "valueType": "string"
-          },
-          {
-            "category": "VARIABLE",
-            "dataSpecification": [],
-            "description": [
-              {
-                "language": "EN",
-                "text": "Both natural sugars and added sugars are evaluated for their impact on overall sugar content"
-              }
-            ],
-            "editable": "true",
-            "embeddedDataSpecifications": [],
-            "idShort": "Sugar",
-            "kind": "Instance",
-            "modelType": {
-              "name": "Property"
-            },
-            "semanticId": {
-              "keys": [
-                {
-                  "idType": "IRI",
-                  "local": true,
-                  "type": "ConceptDescription",
-                  "value": "0173-1#02-AAK254#003"
-                }
-              ]
-            },
-            "value": "",
-            "valueId": null,
-            "valueType": "string"
-          },
-          {
-            "category": "VARIABLE",
-            "dataSpecification": [],
-            "description": [
-              {
-                "language": "EN",
-                "text": "Information about the amount of salt present in the food"
-              }
-            ],
-            "editable": "true",
-            "embeddedDataSpecifications": [],
-            "idShort": "Sodium",
-            "kind": "Instance",
-            "modelType": {
-              "name": "Property"
-            },
-            "semanticId": {
-              "keys": [
-                {
-                  "idType": "IRI",
-                  "local": true,
-                  "type": "ConceptDescription",
-                  "value": "0173-1#02-AAK254#003"
-                }
-              ]
-            },
-            "value": "",
-            "valueId": null,
-            "valueType": "string"
-          },
-          {
-            "category": "VARIABLE",
-            "dataSpecification": [],
-            "description": [
-              {
-                "language": "EN",
-                "text": "Information about the level of cholesterol"
-              }
-            ],
-            "editable": "true",
-            "embeddedDataSpecifications": [],
-            "idShort": "Cholesterol",
-            "kind": "Instance",
-            "modelType": {
-              "name": "Property"
-            },
-            "semanticId": {
-              "keys": [
-                {
-                  "idType": "IRI",
-                  "local": true,
-                  "type": "ConceptDescription",
-                  "value": "0173-1#02-AAK254#003"
-                }
-              ]
-            },
-            "value": "",
-            "valueId": null,
-            "valueType": "string"
+            "language": "EN",
+            "text": "Information which helps for determining its physical and chemical properties"
           }
-        ]
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "MaterialComposition",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:PhysicalCharacteristics#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-AAZ539#001"
+            }
+          ]
+        },
+        "value": "FR-4 (fiberglass-reinforced epoxy laminate)",
+        "valueId": null,
+        "valueType": "string"
+      },
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "Information about hazardous materials present"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "HazardousMaterialsInformation",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:PhysicalCharacteristics#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-BAB677#009"
+            }
+          ]
+        },
+        "value": "Lead-free",
+        "valueId": null,
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "administration": {
+      "dataSpecification": [],
+      "embeddedDataSpecifications": [],
+      "revision": "1",
+      "version": "1"
+    },
+    "category": "VARIABLE",
+    "dataSpecification": [],
+    "description": [
+      {
+        "language": "EN",
+        "text": "Information to check whether product will effect our environment or not"
+      }
+    ],
+    "editable": "true",
+    "embeddedDataSpecifications": [],
+    "idShort": "EnvironmentalImpact",
+    "identification": {
+      "id": "urn:industryapps:i40:submodel:product:1:1:EnvironmentalImpact#GNJU8.PLANTCUCUM.ELE-DEMO2504_01",
+      "idType": "IRDI"
+    },
+    "kind": "Instance",
+    "modelType": {
+      "name": "Submodel"
+    },
+    "parent": {
+      "keys": [
+        {
+          "idType": "IRI",
+          "local": false,
+          "type": "AssetAdministrationShell",
+          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+        }
+      ]
+    },
+    "semanticId": {
+      "keys": [
+        {
+          "idType": "IRI",
+          "local": true,
+          "type": "Submodel",
+          "value": ""
+        }
+      ]
+    },
+    "submodelElements": [
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "Check the information to determine whether the product is RoHS compliant or not"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "RoHSCompliance",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:EnvironmentalImpact#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-AAO191#004"
+            }
+          ]
+        },
+        "value": "Yes",
+        "valueId": null,
+        "valueType": "string"
+      },
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "Information about recycling"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "End-of-Life RecyclingInformation",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:EnvironmentalImpact#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-AAS655#001"
+            }
+          ]
+        },
+        "value": "Recyclable",
+        "valueId": null,
+        "valueType": "string"
+      },
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "Information about the Eco-Friendly certifications"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "Eco-Friendlycertifications",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:EnvironmentalImpact#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-AAZ994#001"
+            }
+          ]
+        },
+        "value": "EPEAT Silver",
+        "valueId": null,
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "administration": {
+      "dataSpecification": [],
+      "embeddedDataSpecifications": [],
+      "revision": "1",
+      "version": "1"
+    },
+    "category": "VARIABLE",
+    "dataSpecification": [],
+    "description": [
+      {
+        "language": "EN",
+        "text": "Sub model which gives information about the energy efficiency of the product"
+      }
+    ],
+    "editable": "true",
+    "embeddedDataSpecifications": [],
+    "idShort": "EnergyEfficiency",
+    "identification": {
+      "id": "urn:industryapps:i40:submodel:product:1:1:EnergyEfficiency#GNJU8.PLANTCUCUM.ELE-DEMO2504_01",
+      "idType": "IRDI"
+    },
+    "kind": "Instance",
+    "modelType": {
+      "name": "Submodel"
+    },
+    "parent": {
+      "keys": [
+        {
+          "idType": "IRI",
+          "local": false,
+          "type": "AssetAdministrationShell",
+          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+        }
+      ]
+    },
+    "semanticId": {
+      "keys": [
+        {
+          "idType": "IRI",
+          "local": true,
+          "type": "Submodel",
+          "value": ""
+        }
+      ]
+    },
+    "submodelElements": [
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "Information about energy consumption"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "EnergyConsumptionInformation",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:EnergyEfficiency#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-ABC229#001"
+            }
+          ]
+        },
+        "value": "Low power consumption ",
+        "valueId": null,
+        "valueType": "string"
+      },
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "Information about compliance with energy efficiency standards"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "ComplianceWithEnergyEfficiencyStandards",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:EnergyEfficiency#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-AAP002#003"
+            }
+          ]
+        },
+        "value": "Energy Star Certified",
+        "valueId": null,
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "administration": {
+      "dataSpecification": [],
+      "embeddedDataSpecifications": [],
+      "revision": "1",
+      "version": "1"
+    },
+    "category": "VARIABLE",
+    "dataSpecification": [],
+    "description": [
+      {
+        "language": "EN",
+        "text": "Sub model which provides information about testing and certification of the Electronic product"
+      }
+    ],
+    "editable": "true",
+    "embeddedDataSpecifications": [],
+    "idShort": "TestingAndCertification",
+    "identification": {
+      "id": "urn:industryapps:i40:submodel:product:1:1:TestingAndCertification#GNJU8.PLANTCUCUM.ELE-DEMO2504_01",
+      "idType": "IRDI"
+    },
+    "kind": "Instance",
+    "modelType": {
+      "name": "Submodel"
+    },
+    "parent": {
+      "keys": [
+        {
+          "idType": "IRI",
+          "local": false,
+          "type": "AssetAdministrationShell",
+          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+        }
+      ]
+    },
+    "semanticId": {
+      "keys": [
+        {
+          "idType": "IRI",
+          "local": true,
+          "type": "Submodel",
+          "value": ""
+        }
+      ]
+    },
+    "submodelElements": [
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "Information about conformity declarations"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "ConformityDeclarations",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:TestingAndCertification#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-ABA889#001"
+            }
+          ]
+        },
+        "value": "Yes",
+        "valueId": null,
+        "valueType": "string"
+      },
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "CE Marking Information"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "CEMarkingInformation",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:TestingAndCertification#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-AAP002#003"
+            }
+          ]
+        },
+        "value": null,
+        "valueId": null,
+        "valueType": "string"
+      },
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "Information about compliance with relevant EU directives and standards"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "RelevantEUDirectivesAndStandards",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:TestingAndCertification#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-AAP002#003"
+            }
+          ]
+        },
+        "value": "EN 60950-1:2006+A11:2009",
+        "valueId": null,
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "administration": {
+      "dataSpecification": [],
+      "embeddedDataSpecifications": [],
+      "revision": "1",
+      "version": "1"
+    },
+    "category": "VARIABLE",
+    "dataSpecification": [],
+    "description": [
+      {
+        "language": "EN",
+        "text": "Sub model which provides the lifecycle information"
+      }
+    ],
+    "editable": "true",
+    "embeddedDataSpecifications": [],
+    "idShort": "LifecycleInformation",
+    "identification": {
+      "id": "urn:industryapps:i40:submodel:product:1:1:LifecycleInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01",
+      "idType": "IRDI"
+    },
+    "kind": "Instance",
+    "modelType": {
+      "name": "Submodel"
+    },
+    "parent": {
+      "keys": [
+        {
+          "idType": "IRI",
+          "local": false,
+          "type": "AssetAdministrationShell",
+          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+        }
+      ]
+    },
+    "semanticId": {
+      "keys": [
+        {
+          "idType": "IRI",
+          "local": true,
+          "type": "Submodel",
+          "value": ""
+        }
+      ]
+    },
+    "submodelElements": [
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "Lifecycle information"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "ExpectedLifecycle",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:LifecycleInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-AAS655#001"
+            }
+          ]
+        },
+        "value": "10 years ",
+        "valueId": null,
+        "valueType": "string"
+      },
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "Maintenance and service information"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "MaintenanceAndServiceInformation",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:LifecycleInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-ABA718#001"
+            }
+          ]
+        },
+        "value": "User-replaceable components ",
+        "valueId": null,
+        "valueType": "string"
+      },
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "Detailed information about warranty period"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "WarrantyDetails",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:LifecycleInformation#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-AAS655#001"
+            }
+          ]
+        },
+        "value": "2 years",
+        "valueId": null,
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "administration": {
+      "dataSpecification": [],
+      "embeddedDataSpecifications": [],
+      "revision": "1",
+      "version": "1"
+    },
+    "category": "VARIABLE",
+    "dataSpecification": [],
+    "description": [
+      {
+        "language": "EN",
+        "text": "Sub model that provides information about digital connectivity"
+      }
+    ],
+    "editable": "true",
+    "embeddedDataSpecifications": [],
+    "idShort": "DigitalConnectivity",
+    "identification": {
+      "id": "urn:industryapps:i40:submodel:product:1:1:DigitalConnectivity#GNJU8.PLANTCUCUM.ELE-DEMO2504_01",
+      "idType": "IRDI"
+    },
+    "kind": "Instance",
+    "modelType": {
+      "name": "Submodel"
+    },
+    "parent": {
+      "keys": [
+        {
+          "idType": "IRI",
+          "local": false,
+          "type": "AssetAdministrationShell",
+          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+        }
+      ]
+    },
+    "semanticId": {
+      "keys": [
+        {
+          "idType": "IRI",
+          "local": true,
+          "type": "Submodel",
+          "value": ""
+        }
+      ]
+    },
+    "submodelElements": [
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "IoT connectivity features information"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "IoTConnectivityFeatures",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:DigitalConnectivity#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-BAE967#002"
+            }
+          ]
+        },
+        "value": "RFID tag for tracking",
+        "valueId": null,
+        "valueType": "string"
+      },
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "Version Information"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "FirmwareVersion",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:DigitalConnectivity#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-AAP003#002"
+            }
+          ]
+        },
+        "value": "v1.2.3",
+        "valueId": null,
+        "valueType": "string"
+      },
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "Digital Twin Information"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "DigitalTwinInformation",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:DigitalConnectivity#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-AAS655#001"
+            }
+          ]
+        },
+        "value": "Available",
+        "valueId": null,
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "administration": {
+      "dataSpecification": [],
+      "embeddedDataSpecifications": [],
+      "revision": "1",
+      "version": "1"
+    },
+    "category": "VARIABLE",
+    "dataSpecification": [],
+    "description": [
+      {
+        "language": "EN",
+        "text": "Sub model that provides information about security and data privacy"
+      }
+    ],
+    "editable": "true",
+    "embeddedDataSpecifications": [],
+    "idShort": "SecurityAndDataPrivacy",
+    "identification": {
+      "id": "urn:industryapps:i40:submodel:product:1:1:SecurityAndDataPrivacy#GNJU8.PLANTCUCUM.ELE-DEMO2504_01",
+      "idType": "IRDI"
+    },
+    "kind": "Instance",
+    "modelType": {
+      "name": "Submodel"
+    },
+    "parent": {
+      "keys": [
+        {
+          "idType": "IRI",
+          "local": false,
+          "type": "AssetAdministrationShell",
+          "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+        }
+      ]
+    },
+    "semanticId": {
+      "keys": [
+        {
+          "idType": "IRI",
+          "local": true,
+          "type": "Submodel",
+          "value": ""
+        }
+      ]
+    },
+    "submodelElements": [
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "Information about cyber security measures"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "CybersecurityMeasures",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:SecurityAndDataPrivacy#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-AAW320#001"
+            }
+          ]
+        },
+        "value": "AES Encryption",
+        "valueId": null,
+        "valueType": "string"
+      },
+      {
+        "category": "VARIABLE",
+        "dataSpecification": [],
+        "description": [
+          {
+            "language": "EN",
+            "text": "Data privacy compliance information"
+          }
+        ],
+        "editable": "true",
+        "embeddedDataSpecifications": [],
+        "idShort": "DataPrivacyCompliance",
+        "kind": "Instance",
+        "modelType": {
+          "name": "Property"
+        },
+        "parent": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": false,
+              "type": "AssetAdministrationShell",
+              "value": "urn:industryapps:i40:aas:1:1:product#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            },
+            {
+              "idType": "IRDI",
+              "local": true,
+              "type": "Submodel",
+              "value": "urn:industryapps:i40:submodel:product:1:1:SecurityAndDataPrivacy#GNJU8.PLANTCUCUM.ELE-DEMO2504_01"
+            }
+          ]
+        },
+        "semanticId": {
+          "keys": [
+            {
+              "idType": "IRI",
+              "local": true,
+              "type": "ConceptDescription",
+              "value": "0173-1#02-AAT105#002"
+            }
+          ]
+        },
+        "value": "GDPR Compliant",
+        "valueId": null,
+        "valueType": "string"
       }
     ]
   }

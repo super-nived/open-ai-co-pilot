@@ -12,17 +12,49 @@
   <title>Chat Interface</title>
 </head>
 <body>
+  <div class="modal" id="authModal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal()">&times;</span>
+      <div class="tab">
+        <button class="tablinks" onclick="showLoginForm()">Login</button>
+        <button class="tablinks" onclick="showRegisterForm()">Register</button>
+      </div>
+      <div id="Login" class="tabcontent">
+        <h3>Login</h3>
+        <input type="text" placeholder="Username" id="loginUsername">
+        <input type="password" placeholder="Password" id="loginPassword">
+        <button onclick="loginUser()">Login</button>
+      </div>
+      <div id="Register" class="tabcontent">
+        <h3>Register</h3>
+        <input type="text" placeholder="Username" id="registerUsername">
+        <input type="password" placeholder="Password" id="registerPassword">
+        <button onclick="registerUser()">Register</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Options Modal -->
+  <div class="modal" id="optionsModal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal()">&times;</span>
+      <h3>Choose an option</h3>
+      <button id="shortExplainButton">Explain in Short</button>
+      <button id="detailedExplainButton">Explain Detailed</button>
+    </div>
+  </div>
 
   <div class="chatbox-wrapper">
     <div class="header">
       <button class="stop-btn" onclick="endChat()">
-        <span class="material-symbols-rounded">power_settings_new</span>
+        <span class="material-symbols-rounded">stop</span>
       </button>
+      <button onclick="showModal()">Login / Register</button>
     </div>
-    <div class="message-box">
+    <div class="message-box" id="messageBox">
       <div class="chat response">
-        <img src="/static/images/chatbot.jpg">
-        <span>Hello there!  How can I help you today.</span>
+        <img src="/static/images/chatbot.jpg" alt="Chatbot Image">
+        <span>How can I help you today?</span>
       </div>
     </div>
     <div class="messagebar">
@@ -31,13 +63,14 @@
           <span class="material-symbols-rounded">attach_file</span>
         </label>
         <input type="file" id="file-input" onchange="uploadFile()" style="display: none;">
-        <input type="text" placeholder="Enter your message...">
-        <button>
+        <input type="text" id="userInput" placeholder="Enter your message...">
+        <button onclick="sendMessage()">
           <span class="material-symbols-rounded">send</span>
         </button>
       </div>
     </div>
   </div>
+
   <script src="/static/js/script.js"></script>
 </body>
 </html>

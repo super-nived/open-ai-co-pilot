@@ -1,5 +1,10 @@
 Flask
-flask-cors
-openai
-werkzeug
+Werkzeug
+Flask-CORS
 python-dotenv
+openai
+requests
+bs4
+sqlite3 ; sys_platform == 'win32'
+Flask-Session
+flask-jwt-extended
